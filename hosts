@@ -1,0 +1,3 @@
+[letsencrypt]
+server1.de ansible_user=root letsencrypt_email=me@server1.de domain_name=server1.de
+server2.de ansible_user=root letsencrypt_email=me@mycompany.de domain_name=server2.de
